@@ -3,7 +3,7 @@ platform: nitroso
 service: carbon
 landscape: raichu
 pin:
-  primordial: ""
-  chart: ""
-  image: ""
+  primordial: 1.0.1
+  chart: 1.0.1
+  image: none
 values: {}
