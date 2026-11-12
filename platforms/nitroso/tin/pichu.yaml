@@ -1,0 +1,9 @@
+# machine-written stub (T3 materializer). Kargo writes pin.*; values: is a human emergency override.
+platform: nitroso
+service: tin
+landscape: pichu
+pin:
+  primordial: ""
+  chart: ""
+  image: ""
+values: {}
