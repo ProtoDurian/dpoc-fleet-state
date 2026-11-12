@@ -3,7 +3,7 @@ platform: nitroso
 service: tin
 landscape: ampharos
 pin:
-  primordial: 2.1.1
-  chart: 2.1.1
-  image: 2.1.1
+  primordial: 2.1.2
+  chart: 2.1.2
+  image: 2.1.2
 values: {}
