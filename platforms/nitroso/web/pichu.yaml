@@ -3,7 +3,7 @@ platform: nitroso
 service: web
 landscape: pichu
 pin:
-  primordial: ""
-  chart: ""
-  image: ""
+  primordial: 1.0.0
+  chart: 1.0.0
+  image: 1.0.0
 values: {}
