@@ -3,7 +3,7 @@ platform: nitroso
 service: tin
 landscape: raichu
 pin:
-  primordial: 2.1.2
-  chart: 2.1.2
-  image: 2.1.2
+  primordial: 2.1.3
+  chart: 2.1.3
+  image: 2.1.3
 values: {}
