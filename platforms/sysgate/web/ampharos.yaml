@@ -3,7 +3,7 @@ platform: sysgate
 service: web
 landscape: ampharos
 pin:
-  primordial: ""
-  chart: ""
-  image: ""
+  primordial: 1.1.0
+  chart: 1.1.0
+  image: 1.1.0
 values: {}
