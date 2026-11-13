@@ -3,7 +3,7 @@ platform: argon
 service: zinc
 landscape: raichu
 pin:
-  primordial: 2.3.0
-  chart: 2.3.0
-  image: 2.3.0
+  primordial: 2.3.2
+  chart: 2.3.2
+  image: 2.3.2
 values: {}
