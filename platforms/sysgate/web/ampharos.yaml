@@ -1,0 +1,9 @@
+# sysgate test row (C-01-38)
+platform: sysgate
+service: web
+landscape: ampharos
+pin:
+  primordial: ""
+  chart: ""
+  image: ""
+values: {}
