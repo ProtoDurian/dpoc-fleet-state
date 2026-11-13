@@ -3,7 +3,7 @@ platform: aldehyde
 service: lithium
 landscape: ampharos
 pin:
-  primordial: 1.1.0
-  chart: 1.1.0
-  image: 1.1.0
+  primordial: 1.2.2
+  chart: 1.2.2
+  image: 1.2.2
 values: {}
