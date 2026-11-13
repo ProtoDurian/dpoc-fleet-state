@@ -3,7 +3,7 @@ platform: argon
 service: zinc
 landscape: ampharos
 pin:
-  primordial: ""
-  chart: ""
-  image: ""
+  primordial: 2.0.0
+  chart: 2.0.0
+  image: 2.0.0
 values: {}
