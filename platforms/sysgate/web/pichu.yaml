@@ -1,9 +1,0 @@
-# sysgate test row (C-01-38)
-platform: sysgate
-service: web
-landscape: pichu
-pin:
-  primordial: 1.1.0
-  chart: 1.1.0
-  image: 1.1.0
-values: {}
